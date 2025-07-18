@@ -2,7 +2,7 @@
 
 [Preface](Prompt%20Seeds%20Growing%20AI%20Ideas%20230d71133cdf80ae9f9bfeb796358878/Preface%20234d71133cdf808a81b6d8d21f2abbe6.md)
 
-- Used prompt philosophy:
+- Used prompt philosophy: https://www.perplexity.ai/page/effective-ai-prompts-tkEtYR_VTcKX5kU1RiNuHA
 
 [Effective AI Prompts](https://www.perplexity.ai/page/effective-ai-prompts-tkEtYR_VTcKX5kU1RiNuHA)
 
