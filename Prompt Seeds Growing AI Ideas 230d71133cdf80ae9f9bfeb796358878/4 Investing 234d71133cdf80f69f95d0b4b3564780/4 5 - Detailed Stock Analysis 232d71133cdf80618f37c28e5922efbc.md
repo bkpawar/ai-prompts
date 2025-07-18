@@ -1,4 +1,4 @@
-# Detailed Stock Analysis
+# 4.5 - Detailed Stock Analysis
 
 Owner: Bhupendra Pawar
 
